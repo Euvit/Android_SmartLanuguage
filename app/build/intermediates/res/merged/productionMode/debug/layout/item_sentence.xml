@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llRow"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="7dip"
+    android:paddingTop="7dip" >
+
+    <RelativeLayout
+        android:id="@+id/llRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tvText"
+            style="@style/ListItem"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_toLeftOf="@+id/linearLayout1"
+            android:text="HeaderText" >
+        </TextView>
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvGo"
+                style="@style/NaviItem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" >" >
+            </TextView>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

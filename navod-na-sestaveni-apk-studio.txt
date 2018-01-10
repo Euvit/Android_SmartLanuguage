@@ -1,0 +1,50 @@
+Příprava
+========
+
+Spustíte Android Studio a zvolíte File - Import - Existing Android Code Into Workspace.
+Vyhledáte adresář, kde to máte rozbaleno (viz výše) a vyberete adresář SmartLanguage resp. SmartPhrase. Zároveň zaškrtnete Copy project into workspace. Mělo by vám to vytvořit projekt, který bude totožný se zdrojovým. Pokud se bude v některý detailech lišit, doporučuji použít soubory ze zipu (klidně to můžete překopírovat).
+Kromě toho si to samozřejmě vytvoří další vlastní adresáře - .settings, bin, gen, proguard.
+
+
+SmartLanguage
+=============
+
+V souboru sl-setup.zip jsou uložena "specifická data aplikací", a to v adresářích pro jednotlivé cílové aplikace, např. cz01-CZCAAN.
+Pro každou aplikaci jsou tam:
+
+
+assets/databases/smartlanguage.zip
+Obsahuje databázi smartlanguage.db3.
+
+assets/sounds
+Obsahuje adresáře jednotlivých zvukových balíčků; na linuxu tam mám vždy v podstatě linky na soubory uložené jinde (abych tam neměl jeden soubor x-krát). To si doplníte podle potřeby.
+
+res/drawable[-xyz]
+Obrázky
+
+res/values/strings.xml
+Obsahuje jméno aplikace a (zakomentovaný) string package-name
+
+src/com/euvit/android/english/classic/czech/ApkRSAKey.java
+Obsahuje RSA licenční klíč z GP.
+
+Sestavení aplikace:
+
+ 1) V adresáři SmartLanguage (kořenový adresář projektu) smazat adresář assets.
+ 2) Do adresáře Smartlanguage zkopírovat obsah příslušného build-specifického pracovního adresáře (např. cz01-CZCAAN).
+ 3) Otevřít projekt ve Studiu
+ 4) Provést Synchronize
+ 5) Dát Build - Clean Project (pro jistotu)
+ 6) Ideálně spustit a vyzkoušet - zvolit Run - Run 'app'; aplikace se nainstaluje ještě s "debug klíčem", vše by mělo normálně fungovat kromě nákupů - GP vrátí hlášku, že aplikace není nastavena na nakupování.
+
+ 7) Pokud vše funguje, tak provést sestavení release apk: Build - Generate signed apk; zvolit klíč (netuším, kde ho máte), zadat heslo, zvolit alias euvit.cz, znovu zadat heslo, poté Next, můžete vybrat, kam vám to nahraje, zvolit Buid Type release, Flavor productionMode a dát Finish.
+Po nějaké chvíli bude vygenerován příslušný apk soubor.
+
+
+
+SmartPhrase
+===========
+
+Vše je v podstatě identické, akorát se jinak jmenují základní adresáře (např. SPCS), databáze (i zip) se jmenují smartphrase a samozřejmě je i jiná cesta k souboru ApkRSAKey.java.
+
+

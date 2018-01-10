@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llRow"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="7dip"
+    android:paddingTop="7dip" >
+
+    <RelativeLayout
+        android:id="@+id/llRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/sound" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/linearLayout3"
+            android:layout_toRightOf="@+id/linearLayout1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvLabel"
+                style="@style/Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="0dp"
+                android:text="HeaderText"
+                android:textColor="@color/default_txt" />
+
+            <ProgressBar
+                android:id="@+id/pbDownload"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="8dp"
+                android:indeterminate="false"
+                android:progressDrawable="@drawable/progress_download" />
+
+            <TextView
+                android:id="@+id/tvStatus"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="tvStatus" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/download1" />
+        </LinearLayout>
+
+        <!--
+        <TextView
+            android:id="@+id/tvStatus"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/LinearLayout2"
+            android:layout_toRightOf="@+id/linearLayout1"
+            android:ellipsize="marquee"
+            android:maxLines="1"
+            android:text="tvStatus" />
+        -->
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/packagesBottom"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/header_bg"
+    android:orientation="horizontal"
+    android:padding="7dp" >
+
+    <Button
+        android:id="@+id/btnDTAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="7dp"
+        android:background="@drawable/button_blue"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="ANAbout"
+        android:textColor="@color/header_txt" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnDTSettingsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="7dp"
+        android:background="@drawable/button_blue"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="ANSettingsTitle"
+        android:textColor="@color/header_txt" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnPudding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="7dp"
+        android:layout_toLeftOf="@id/btnDTSettingsTitle"
+        android:layout_toRightOf="@id/btnDTAbout"
+        android:background="@drawable/button_blue"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/btnDTDownloadTitle1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="7dp"
+        android:layout_toLeftOf="@id/btnDTSettingsTitle"
+        android:layout_toRightOf="@id/btnDTAbout"
+        android:background="@drawable/button_blue"
+        android:maxLines="1"
+        android:text="ANDownloadTitle"
+        android:textColor="@color/header_txt" />
+    
+    <Button
+        android:id="@+id/btnDTDownloadTitle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnPudding"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button_blue"
+        android:text="ANDownloadTitle"
+        android:textColor="@color/header_txt" />
+
+</RelativeLayout>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:theme="@android:style/Theme.Light.NoTitleBar">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <TextView
+                android:id="@+id/btnSndTitle"
+                style="@style/StrongOneLine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnSnd1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:textColor="@color/header_txt"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnSnd2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:textColor="@color/header_txt"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnSnd3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:textColor="@color/header_txt"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnSnd4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:textColor="@color/header_txt"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnSnd5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:textColor="@color/header_txt"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/btnRateTitle"
+                style="@style/StrongOneLine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ANSentenceTimerTitle"
+                android:layout_marginTop="24dp" />
+
+            <Button
+                android:id="@+id/btnRateSlow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:text="ANSentenceTimer05"
+                android:textColor="@color/header_txt"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnRateNormal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:text="ANSentenceTimer10"
+                android:textColor="@color/header_txt"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnRateFast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:text="ANSentenceTimer15"
+                android:textColor="@color/header_txt"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnClose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/button_blue"
+                android:ems="16"
+                android:text="ANSentenceSoundSetClose"
+                android:textColor="@color/header_txt" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/KaraokeContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal">
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutHead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/header_bg"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvPackageName"
+                style="@style/Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/tvSentencePos"
+                android:layout_alignParentLeft="true"
+                android:layout_toLeftOf="@+id/tvSentencePos"
+                android:text="Medium Text" />
+
+            <TextView
+                android:id="@+id/tvSentencePos"
+                style="@style/Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="1/10"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <ProgressBar
+            android:id="@+id/pbSentencePos"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:indeterminate="false"
+            android:progressDrawable="@drawable/progress_karaoke" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlKaraokeBuyTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/LinearLayoutHead"
+        android:background="@color/settings_group_bg"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tvKaraokeDTBuyTitle"
+            style="@style/StrongOneLine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="ANBuyTitle" />
+
+        <Button
+            android:id="@+id/btnKaraokeDTBuy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_blue"
+            android:text="ANBuy"
+            android:textColor="@color/header_txt" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlKaraokeDownload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rlKaraokeBuyTop"
+        android:background="@color/settings_group_bg"
+        android:paddingBottom="4dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp">
+
+        <TextView
+            android:id="@+id/tvKaraokeDTDownloadText"
+            style="@style/StrongOneLine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="ANDownloadText" />
+
+        <Button
+            android:id="@+id/btnKaraokeDTDownloadButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_blue"
+            android:text="ANDownloadButton"
+            android:textColor="@color/header_txt" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlKaraokeDownloading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rlKaraokeDownload"
+        android:background="@color/settings_group_bg"
+        android:paddingBottom="4dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp">
+
+        <TextView
+            android:id="@+id/tvKaraokeDTDownloadWait"
+            style="@style/StrongOneLine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="ANDownloadWait" />
+
+        <ProgressBar
+            android:id="@+id/pbDownloading"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/LinearLayoutFoot"
+        android:layout_below="@+id/rlKaraokeDownloading">
+
+        <LinearLayout
+            android:id="@+id/llKaraoke"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"></LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutFoot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/header_bg"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayoutFoot1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/llPlayerLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/ivPlayerStreamSel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:baselineAlignBottom="true"
+                    android:src="@drawable/player_stream_m" />
+
+                <TextView
+                    android:id="@+id/tvPlayerStreamSel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/light"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llPlayerRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:id="@+id/ivSettings"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:clickable="true"
+                    android:src="@drawable/settings" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llPlayer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/llPlayerRight"
+                android:layout_toRightOf="@+id/llPlayerLeft"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/ivPlayerPrev"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:clickable="true"
+                    android:src="@drawable/player_prev" />
+
+                <ImageView
+                    android:id="@+id/ivPlayerPlay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:src="@drawable/player_play" />
+
+                <ImageView
+                    android:id="@+id/ivPlayerPause"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:src="@drawable/player_pause" />
+
+                <ImageView
+                    android:id="@+id/ivPlayerNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:clickable="true"
+                    android:src="@drawable/player_next" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayoutFoot2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"></RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayoutFoot3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ProgressBar
+                android:id="@+id/pbKaraoke"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:layout_marginBottom="4dp"
+                android:layout_marginTop="4dp"
+                android:indeterminate="false"
+                android:progressDrawable="@drawable/progress_karaoke" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

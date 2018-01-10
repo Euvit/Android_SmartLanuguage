@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llRow"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="7dip"
+    android:paddingTop="7dip" >
+
+    <RelativeLayout
+        android:id="@+id/llRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tvLabel"
+            style="@style/ListItem"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_toLeftOf="@+id/llNumSentences"
+            android:text="HeaderText" >
+
+        </TextView>
+
+        <LinearLayout
+            android:id="@+id/llNumSentences"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="2dp"
+            android:layout_toLeftOf="@+id/LinearLayout1"
+            android:background="@drawable/shape_paid"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:shape="@drawable/shape_paid" >
+
+            <TextView
+                android:id="@+id/tvNumSentences"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" 0 " >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="8dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvGo"
+                style="@style/NaviItem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" >" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

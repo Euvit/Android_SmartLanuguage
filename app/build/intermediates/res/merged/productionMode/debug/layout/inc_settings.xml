@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="4dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp">
+
+            <TextView
+                android:id="@+id/tvDTSettingsGoToNextTitle"
+                style="@style/Strong"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="15dp"
+                android:text="ANSettingsGoToNextTitle" />
+
+            <LinearLayout
+                android:id="@+id/llGroup1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/settings_group_bg"
+                android:orientation="vertical">
+
+                <TableLayout
+                    android:id="@+id/tableLayout2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:stretchColumns="0">
+
+                    <TableRow
+                        android:id="@+id/tableRow2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/tvDTSettingsGoToNext"
+                            style="@style/Strong"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ANSettingsGoToNext" />
+
+                        <Spinner
+                            android:id="@+id/etSettingsGoToNext"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <!--
+                        <EditText
+                            android:id="@+id/etSettingsGoToNext"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:ems="2"
+                            android:gravity="right"
+                            android:inputType="number"
+                            android:maxLength="2" />
+                        -->
+
+                        <TextView
+                            android:id="@+id/TextView09"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" s "
+                            android:textStyle="bold"
+                            android:visibility="invisible" />
+                    </TableRow>
+
+                    <TableRow
+                        android:id="@+id/tableRow3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/tvDTSettingsRepeatInterval"
+                            style="@style/Strong"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ANSettingsRepeatInterval" />
+
+                        <Spinner
+                            android:id="@+id/etSettingsRepeatInterval"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <!--
+                        <EditText
+                            android:id="@+id/etSettingsRepeatInterval"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:ems="2"
+                            android:gravity="right"
+                            android:inputType="number"
+                            android:maxLength="2" />
+                       	-->
+
+                        <TextView
+                            android:id="@+id/TextView01"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" s "
+                            android:textStyle="bold" />
+                    </TableRow>
+                </TableLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDTSettingsRepeatTitle"
+                style="@style/Strong"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="15dp"
+                android:text="ANSettingsRepeatTitle"></TextView>
+
+            <LinearLayout
+                android:id="@+id/llGroup2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/settings_group_bg"
+                android:orientation="vertical">
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsRepeat"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsRepeat"></CheckBox>
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsRepeatLesson"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsRepeatLesson"></CheckBox>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDTSettingsSentenceTitle"
+                style="@style/Strong"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="15dp"
+                android:text="ANSettingsSentenceTitle"></TextView>
+
+            <LinearLayout
+                android:id="@+id/llGroup3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/settings_group_bg"
+                android:orientation="vertical">
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsHighlight1"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsHighlight1"></CheckBox>
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsHighlight2"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsHighlight2"></CheckBox>
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsHighlight3"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsHighlight3"></CheckBox>
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsText4"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsText4"></CheckBox>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDTSettingsIdleTimerTitle"
+                style="@style/Strong"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="15dp"
+                android:text="ANSettingsIdleTimerTitle"></TextView>
+
+            <LinearLayout
+                android:id="@+id/llGroup4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/settings_group_bg"
+                android:orientation="vertical">
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsIdleTimerDisabled"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsIdleTimerDisabled"></CheckBox>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDTSettingsServicesTitle"
+                style="@style/Strong"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="15dp"
+                android:text="ANSettingsServicesTitle"></TextView>
+
+            <LinearLayout
+                android:id="@+id/llGroup5"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/settings_group_bg"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/RelativeLayout01"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="12dp"
+                    android:paddingTop="12dp">
+
+                    <TextView
+                        android:id="@+id/tvDTSettingsRestoreTransactions"
+                        style="@style/Strong"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:clickable="true"
+                        android:text="ANSettingsRestoreTransactions" />
+
+                    <TextView
+                        android:id="@+id/TextView08"
+                        style="@style/Strong"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text=" > " />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/RelativeLayout02"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="6dp"
+                    android:paddingTop="6dp">
+
+                    <TextView
+                        android:id="@+id/tvDTSettingsDownloadsReset"
+                        style="@style/Strong"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:clickable="true"
+                        android:text="ANSettingsDownloadsReset" />
+
+                    <TextView
+                        android:id="@+id/TextView07"
+                        style="@style/Strong"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="center_vertical"
+                        android:text=" > " />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/RelativeLayout03"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="12dp"
+                    android:paddingTop="12dp">
+
+                    <TextView
+                        android:id="@+id/tvDTSettingsHardReset"
+                        style="@style/Strong"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:clickable="true"
+                        android:text="ANSettingsHardReset" />
+
+                    <TextView
+                        android:id="@+id/TextView10"
+                        style="@style/Strong"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="center_vertical"
+                        android:text=" > " />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDTSettingsInfoHelpTitle"
+                style="@style/Strong"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="15dp"
+                android:text="ANSettingsInfoHelpTitle"></TextView>
+
+            <LinearLayout
+                android:id="@+id/llGroup6"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/settings_group_bg"
+                android:orientation="vertical">
+
+                <CheckBox
+                    android:id="@+id/cbDTSettingsDisplayGuide"
+                    style="@style/Strong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="ANSettingsDisplayGuide"></CheckBox>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/rlGroup7"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/settings_group_bg">
+
+                <RelativeLayout
+                    android:id="@+id/RelativeLayout04"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:id="@+id/tvDTSettingsSupportAndHelp"
+                        style="@style/Strong"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginBottom="4dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="4dp"
+                        android:clickable="true"
+                        android:paddingBottom="4dp"
+                        android:text="ANSettingsSupportAndHelp"></TextView>
+
+                    <TextView
+                        android:id="@+id/tvGo"
+                        style="@style/Strong"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text=" > " />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

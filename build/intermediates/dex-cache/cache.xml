@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-appindexing-9.2.0_02463c3271aafa7d029a9e5d549ddd419fb30e04.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-base-9.2.0_34cb44fd89e0ba0f5772af609ac56af24fa04b7c.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-nearby-9.2.0_bd885025e2be996cb8c347dbe4cb478d9fabd4a3.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.android.support-support-vector-drawable-24.0.0_1e1ea10c5a88c23b8b937ae3221937e880f1fefe.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-plus-9.2.0_26d05e74b8b76faf17180d855417e900cd077c71.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.android.support-support-v4-24.0.0_e9d4b8fd93c3de2eb8073a57c5444f67fc59bfd8.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-safetynet-9.2.0_15dc3c02d5b7cf267f26cc0645a3b4db6822a97c.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-tasks-9.2.0_ad0a7c8784159e70c5cf30fae1e0c2c8d94090e3.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-vision-9.2.0_e673fce2b821ac6040123f6f35d8dd4132afff49.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-wearable-9.2.0_1e2bb91d9d93638635f31c3c4e247d6d4bd809f7.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-common-9.2.0_4fe2c592f368ee76d3f692e78852076cae6dbb03.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-analytics-9.2.0_78a752a98700f3bfdfc83beab95b0d01617d770d.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-gcm-9.2.0_c52814771d1d8002295f6a977b602403f4d9de7b.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-cast-framework-9.2.0_feef3242affb91bc82cf8de395db788247f72507.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/internal_impl-23.0.0_b30a182d841d742aaa8835e9b54f9de6c7d9ee2c.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-analytics-impl-9.2.0_7f2c3b02e799f9e0bc711530527c19c715bed6b7.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-identity-9.2.0_c8a6492c70cc18dd65ab7d999b9327ae7a4ba9ed.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-auth-9.2.0_efe49d80a1dd750a6b9f89a0d66f4e4e6d9f3c6d.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-iid-9.2.0_1ed88d75658ac90cafcb24a82a559bf1e7bf44f6.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-games-9.2.0_d065722eb4ebe829c30eb524a1f2cec36fe0cd50.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-tagmanager-9.2.0_1be3ff01fc26db2947fb73d327d1b2458545e5d1.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-places-9.2.0_c1276cdfd43b79027365e3774380b9f87424d48c.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.android.support-animated-vector-drawable-24.0.0_85e4133873f92d5530dd23ac579bff30a88b5066.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-drive-9.2.0_e3c9823998ca25bc0ea41ccf155bc359e3e56c57.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-contextmanager-9.2.0_f19dd6b1ba1a9ab3043f0233db573e037adfb759.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-location-9.2.0_5f8e234c7abec35fc4f33e93d5929348ce1f03e7.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-cast-9.2.0_64838f3963dc376dcdc495a7da16e6806ba5cca9.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.android.support-appcompat-v7-24.0.0_eee9d63afc94cc413f0573bd9d8fc3dd561f8d4b.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-analytics-9.2.0_3df0fd4788b0ed42929ee3785b8cd59509c07fdb.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-wallet-9.2.0_06f3f064037cf256914873d0ca54850d1fe2b3ec.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-crash-9.2.0_6ce880d595635c056050041b7966e2faea7a7f84.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-analytics-impl-9.2.0_96bf0fba8c5451205856af318814f8f86ec80153.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-clearcut-9.2.0_a55aa17c4b87108d7c996becac32046407412593.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-messaging-9.2.0_314229f8f2cb34c157d4c08596763fabd490af3e.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-auth-common-9.2.0_a6ed71dcf0b0ceb864d1f345c8342817a1aa6b6f.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-auth-9.2.0_84da81a74dd53012f963567b92b871e57877d1e7.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-ads-lite-9.2.0_6a91fc69f7116bd31e61ff3daa6223d6153b82d7.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-tagmanager-api-9.2.0_4f3710297fd723b0355e290d1fd4f266a470cd14.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-database-connection-9.2.0_79b7b0b1cb319b94841a60f95667d61e74b94e8e.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.android.support-mediarouter-v7-23.0.0_5681bc1f632c3d27501b9fd3dbb2c47f8f3eb403.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-database-9.2.0_fc428320e7524cfcda31ec2141b11d806c0c22ba.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/internal_impl-24.0.0_ecafe4a31986df21e22310a5e956b9a6ebba1b8e.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-appinvite-9.2.0_2988406fff9fd5d28943e70e27a078001bca9a14.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-storage-common-9.2.0_fb9ed04126f49ed6d3cd3fbe9bfb905d2ee0f416.jar" />
+    </item>
+    <item
+        jar="/home/mka/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/support-annotations-24.0.0_9e09a51f51b3ec1c71e9e6d1e55f2fe19c15f411.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-maps-9.2.0_6b822a69918c826e43f697b96990e65560b50389.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-auth-module-9.2.0_191e4f3e4e141728ba7880e0f3292793ed8c8f50.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-panorama-9.2.0_7e03e08937b78991781decb273448d52884346b5.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-auth-base-9.2.0_557f7369f26f4c65e595008db966a541df0b7555.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-ads-9.2.0_94679154b1e9fdd3b8a546bed5bf15824ff5718c.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-iid-9.2.0_81ee158ca3775d167deb6324b6cc5ca20a3b66fd.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-storage-9.2.0_da5241e533963c3a1c6752c0dcd7aa2e371e2894.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-gass-9.2.0_93093db608254214a55d910f429f7bef7179719d.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-basement-9.2.0_4ec39d7563ff089dc24cdb5c08e94d5bd6885e18.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.firebase-firebase-config-9.2.0_78c57d6d87cfda777edd3e548a326d18eda88a99.jar" />
+    </item>
+    <item
+        jar="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="/media/disk/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/pre-dexed/productionMode/debug/com.google.android.gms-play-services-fitness-9.2.0_1471f4b7819e79aab995fe2f8bf926c2849e7d39.jar" />
+    </item>
+
+</items>

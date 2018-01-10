@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:id="@+id/rlIncTips"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/light" >
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/header_bg"
+            android:paddingBottom="6dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingTop="6dp" >
+
+            <ImageView
+                android:id="@+id/ivPrev"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:src="@drawable/imgbtn_left" />
+
+            <TextView
+                android:id="@+id/tvDTSettingsGuide"
+                style="@style/Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="ANSettingsGuide" />
+
+            <ImageView
+                android:id="@+id/ivNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:clickable="true"
+                android:src="@drawable/imgbtn_right" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/RelativeLayout2"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:id="@+id/scrollView1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp" >
+
+                    <WebView
+                        android:id="@+id/wvDTGuideText"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/light" />
+
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </RelativeLayout>
+
+</merge>

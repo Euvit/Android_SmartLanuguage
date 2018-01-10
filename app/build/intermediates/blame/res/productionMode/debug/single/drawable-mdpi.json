@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_next.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_next.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_stream_2.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_stream_2.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/download2.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/download2.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_stream_3.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_stream_3.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/download1.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/download1.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_stream_1.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_stream_1.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_stream_m.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_stream_m.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/icon.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_stream_a.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_stream_a.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_pause.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_pause.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/settings.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_play.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_play.png"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/drawable-mdpi/player_prev.png",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/drawable-mdpi/player_prev.png"
+    }
+]

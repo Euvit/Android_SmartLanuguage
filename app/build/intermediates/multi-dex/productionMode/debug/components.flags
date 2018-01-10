@@ -1,0 +1,190 @@
+-injars /data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/transforms/jarMerging/productionMode/debug/jars/1/1f/combined.jar
+-outjars /data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/multi-dex/productionMode/debug/componentClasses.jar
+
+-libraryjars /home/mka/Android/Sdk/build-tools/23.0.3/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/multi-dex/productionMode/debug/components.flags
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActSplash {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActTips {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActPackages {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActAbout {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActSettings {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActHelp {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActSentences {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActKaraoke {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActDownload {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActDualPanelPackages {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActDualPanelSentences {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.DlgAbout {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.DlgSettings {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActUpsale1 {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActUpsale2 {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActUpsale3 {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActUpsale4 {
+    <init>();
+}
+
+-keep class com.euvit.android.english.classic.czech.ActUpsale5 {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.ReconnectionService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

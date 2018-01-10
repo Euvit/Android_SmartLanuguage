@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/splash.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_select_dialog_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/place_autocomplete_progress.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_screen_content_include.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/upsale5scroll.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/upsale5scroll.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_packages.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_packages.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/packages.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/packages.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/karaoke.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/karaoke.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/mr_chooser_list_item.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/about.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/stream.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/stream.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/cast_intro_overlay.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/tips.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/tips.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_tips.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_tips.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_template_lines_media.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/dlg_settings.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/dlg_settings.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/cast_help_text.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_screen_toolbar.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_template_media_custom.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/sentences.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/sentences.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/dual_panel_packages.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/dual_panel_packages.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/item_download.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/item_download.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/mr_playback_control.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_menu_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/upsale1scroll.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/upsale1scroll.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/mr_chooser_dialog.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/dual_panel_sentences.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/dual_panel_sentences.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_screen_simple.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_search_view.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_settings.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_settings.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/item_package.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/item_package.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_template_icon_group.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/mr_volume_control.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/upsale4scroll.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/upsale4scroll.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_mode_bar.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/settings.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_template_media.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/mr_controller_volume_item.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_dialog_title_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_template_part_time.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_packages_bottom.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_packages_bottom.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/cast_mini_controller.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_action.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/select_dialog_item_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/notification_action_tombstone.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/upsale3scroll.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/upsale3scroll.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_karaoke.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_karaoke.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/help.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_tips_dual.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_tips_dual.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/upsale2fixed.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/upsale2fixed.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/item_sentence.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/item_sentence.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/download.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/download.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/upsale2scroll.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/upsale2scroll.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/build/intermediates/res/merged/productionMode/debug/layout/inc_sentences.xml",
+        "source": "/data/mka/prj/AndroidStudioProjects/Euvit/SmartLanguage/app/src/main/res/layout/inc_sentences.xml"
+    }
+]

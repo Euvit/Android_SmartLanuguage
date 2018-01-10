@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@color/header_bg"
+            android:padding="6dp" >
+
+            <TextView
+                android:id="@+id/tvLabel"
+                style="@style/Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="tvTitle" >
+            </TextView>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/button_blue"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rlBuyTop"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/RelativeLayout1"
+            android:background="@color/settings_group_bg"
+            android:padding="6dp" >
+
+            <TextView
+                android:id="@+id/tvDTBuyTitle"
+                style="@style/StrongOneLine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="ANBuyTitle" />
+
+            <Button
+                android:id="@+id/btnDTBuy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/button_blue"
+                android:text="ANBuy"
+                android:textColor="@color/header_txt" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rlDownload"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rlBuyTop"
+            android:background="@color/settings_group_bg"
+            android:padding="6dp" >
+
+            <TextView
+                android:id="@+id/tvDTDownloadText"
+                style="@style/StrongOneLine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="ANDownloadText" />
+
+            <Button
+                android:id="@+id/btnDTDownloadButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/button_blue"
+                android:text="ANDownloadButton"
+                android:textColor="@color/header_txt" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rlDownloading"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rlDownload"
+            android:background="@color/settings_group_bg"
+            android:padding="6dp" >
+
+            <TextView
+                android:id="@+id/tvDTDownloadWait"
+                style="@style/StrongOneLine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="ANDownloadWait" />
+
+            <ProgressBar
+                android:id="@+id/pbDownloading"
+                style="?android:attr/progressBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp" />
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/android:list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/llBuyBottom"
+            android:layout_below="@+id/rlDownloading" >
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/llBuyBottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/header_bg"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:paddingTop="2dp" >
+
+            <TextView
+                android:id="@+id/tvDTBuySubtitle"
+                style="@style/Strong"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ANBuySubtitle"
+                android:textColor="@color/header_txt" />
+
+            <RelativeLayout
+                android:id="@+id/rlBuyBottom"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/tvPrice"
+                    style="@style/Title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="AN_INAPP_PRICE_ALL" />
+
+                <Button
+                    android:id="@+id/btnDTBuyAll"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/button_blue"
+                    android:text="ANBuyAll"
+                    android:textColor="@color/header_txt" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</merge>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@color/header_bg"
+            android:padding="6dp" >
+
+            <TextView
+                android:id="@+id/tvDTRootTitle"
+                style="@style/Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="ANRootTitle" >
+            </TextView>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/button_blue"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/android:list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/packagesBottom"
+            android:layout_below="@+id/RelativeLayout1" >
+        </ListView>
+
+        <include layout="@layout/inc_packages_bottom" />
+
+        <!--
+        <RelativeLayout
+            android:id="@+id/RelativeLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/header_bg"
+            android:paddingBottom="2dip"
+            android:paddingTop="4dip" >
+
+            <Button
+                android:id="@+id/btnDTAbout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/button_blue"
+                android:text="ANAbout"
+                android:textColor="@color/header_txt" >
+
+            </Button>
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/btnDTSettingsTitle"
+                android:layout_toRightOf="@+id/btnDTAbout"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/btnDTDownloadTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/button_blue"
+                    android:text="ANDownloadTitle"
+                    android:textColor="@color/header_txt" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnDTSettingsTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/button_blue"
+                android:text="ANSettingsTitle"
+                android:textColor="@color/header_txt" >
+
+            </Button>
+        </RelativeLayout>
+        -->
+    </RelativeLayout>
+
+</merge>
